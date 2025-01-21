@@ -7,8 +7,8 @@
 3. here is another point
 2. one more poin
 
-*bullet
-**sub bullet
+* bullet
+  * sub bullet
 
 *italic*
 **bold**
